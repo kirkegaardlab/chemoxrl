@@ -1,0 +1,41 @@
+# Byte-compiled
+__pycache__/
+*.egg-info/
+
+# Unit test / coverage reports
+.pytest_cache/
+
+# Vim
+*.swp
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# Environments
+venv/
+
+# Ignore media files
+*.mp4
+
+# Ignore images
+*.png
+
+
+# Matplotlib style
+*.mplstyle
+
+# ctags
+tags
+
+# Ignore intermidiate files
+**/results.pkl
+**/data.json
+
+# Ignore cache folders
+.cache/
+
+# Ignore not optimal checkpoints and logs
+logs/
+models/**/pre/
+models/**/post/
+models/**/events**

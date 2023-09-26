@@ -1,0 +1,18 @@
+[project]
+name = "chemoxrl"
+description = "Code for the Reinforcement learning on chemotaxis strategies paper."
+version = "0.1.0"
+authors = [
+    { name = "Albert Alonso", email = "albert.alonso@nbi.ku.dk" },
+    { name = "Julius B. Kirkegaard", emaul = "julius.kirkegaard@nbi.ku.dk" }
+]
+license = {file = "LICENSE"}
+readme = "README.md"
+
+
+[tool.setuptools]
+packages = ["chemoxrl", "chemoxrl_aux"]
+
+[build-system]
+requires = ["setuptools", "wheel"]
+build-backend = "setuptools.build_meta"

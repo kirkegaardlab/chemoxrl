@@ -1,0 +1,23 @@
+{
+    "n_train_envs": 4096,
+    "total_steps": 500000000,
+    "n_steps": 256,
+    "max_grad_norm": 0.5,
+    "eval_interval": 1000000,
+    "n_eval_envs": 4096,
+    "learning_rate": 0.0003,
+    "n_epochs": 8,
+    "n_minibatch": 8,
+    "clip_eps": 0.2,
+    "entropy_coeff": 0.01,
+    "critic_coeff": 0.5,
+    "discount": 1.0,
+    "gae_lambda": 1.0,
+    "logdir": "logs_2023_07_04",
+    "load": "logs_2023_07_04/PPO_R14_SF_MT_4096_20230704-1300_51",
+    "seed": 52,
+    "hidden_cells": 25,
+    "spatial": false,
+    "memory": true,
+    "recurrent": true
+}
