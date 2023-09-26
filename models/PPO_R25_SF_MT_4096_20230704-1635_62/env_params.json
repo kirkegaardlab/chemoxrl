@@ -1,0 +1,12 @@
+{
+    "max_steps_in_episode": 256,
+    "radius": 2.5,
+    "n_receptors": 5,
+    "speed": 5,
+    "rotational_diffusion": 0.025,
+    "decay_rate": 0.01,
+    "diffusion_coeff": 100,
+    "dt": 0.1,
+    "C_min": 4,
+    "C_max": 5
+}

@@ -1,0 +1,13 @@
+flax==0.6.11
+jax==0.4.11
+jaxlib==0.4.11+cuda12.cudnn88
+matplotlib==3.7.1
+numpy==1.25.0
+optax==0.1.5
+orbax-checkpoint==0.2.6
+packaging==23.1
+pick==2.2.0
+rich==13.4.2
+scipy==1.10.1
+tqdm==4.65.0
+typing_extensions==4.6.3
