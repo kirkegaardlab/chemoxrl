@@ -4,7 +4,7 @@
 
 
 <p align="center">
-  <img src="https://github.com/kirkegaardlab/chemoxrl/assets/38870744/859cce3f-e528-4988-a2cd-ceaba33bd151" height="236" />
+  <img src="https://github.com/kirkegaardlab/chemoxrl/assets/38870744/d31bccfe-06f6-4bbc-820d-4cd4f3fe4bc1" height="236" />
 </p>
 
 This repository contains the code used on the paper "Learning optimal integration of spatial and temporal information in chemotaxis"
