@@ -2,12 +2,13 @@
 
 **On the integration of spatial and temporal information**
 
+[![arXiv](https://img.shields.io/badge/arXiv-2310.10531-b31b1b.svg?style=flat)](https://arxiv.org/abs/2310.10531)
 
 <p align="center">
   <img src="https://github.com/kirkegaardlab/chemoxrl/assets/38870744/d31bccfe-06f6-4bbc-820d-4cd4f3fe4bc1" height="236" />
 </p>
 
-This repository contains the code used on the paper "Learning optimal integration of spatial and temporal information in chemotaxis"
+This repository contains the code used on the paper "Learning optimal integration of spatial and temporal information in noisy chemotaxis"
 
 
 ## File Structure
